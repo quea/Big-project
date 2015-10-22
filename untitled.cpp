@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iostream>
+fasfdasfadsfasfsa
 using namespace std;
 int k[30];
 void ok(int *a,int b,int c)
@@ -17,4 +18,5 @@ int main()
 		ok(m,1,n);
 	}
 }
-fdasfdafdas f ds fds fdsa fd 
+//aaaaaa
+hhhhhh
