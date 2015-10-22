@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iostream>
-fasfdasfadsfasfsa
+fasfdasfadsfasfsagdfgdf
 using namespace std;
 int k[30];
 void ok(int *a,int b,int c)
